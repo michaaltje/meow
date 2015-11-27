@@ -1,7 +1,5 @@
-package gitgud;
+package src.gitgud;
 
-public class Hello {
-//hello
-	//public String aisatsu;
-		
+	public class Hello {
+		//hello
 }
